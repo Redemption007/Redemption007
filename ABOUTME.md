@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Redemption007
+- 👀 I’m interested in astrophysic, development, ecology
+- 🌱 I’m currently learning JavaScript, CSS, HTML, Python, C++
+- 📫 How to reach me by email : b.a.p.t.s.t.e7@gmail.com
